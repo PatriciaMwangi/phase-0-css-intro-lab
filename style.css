@@ -8,8 +8,8 @@ div {
   width: 700px;
   margin: auto; 
   /*centers our element*/
-  font-family:  "Helvetica Neue";
-  background:white;
+  font-family: 'helvetica neue';
+    background:white;
   padding: 30px
 }
 
